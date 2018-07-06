@@ -5,8 +5,8 @@ Udacity Front-End Web Developer Nanodegree Program
 To get started developing right away:
 
 
-1. download this zip file
-2.  - cd reactnd-project-myreads-starter-master
+1. Fork or download folder
+2. cd My-Reads-React-Project
 
 3. then run  - npm install
 4. npm start -  to start the app then navigate to http://localhost:3000/ on your local machine
