@@ -2,7 +2,7 @@ Udacity Front-End Web Developer Nanodegree Program
 # MyReads Project
 
 
-To get started developing right away:
+# To get started developing right away:
 
 
 1. Fork or download folder
@@ -12,7 +12,7 @@ To get started developing right away:
 4. npm start -  to start the app then navigate to http://localhost:3000/ on your local machine
 
 
-How to Use the App
+# How to Use the App
 
 Books are sorted into categories:
 - Currently Reading
